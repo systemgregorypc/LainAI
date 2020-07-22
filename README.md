@@ -1,6 +1,6 @@
 # LainAI
 
-# Lain AI-intelgenca-artiifiical 
+# Lain AI-inteligenca-artificial 
 
 hija Lain AI
 
