@@ -1,7 +1,16 @@
 # LainAI
 
+
 # Lain AI-inteligenca-artificial 
 
+
+
+╔╗─────────╔═══╦══╗
+║║─────────║╔═╗╠╣╠╝
+║║──╔══╦╦═╗║║─║║║║
+║║─╔╣╔╗╠╣╔╗╣╚═╝║║║
+║╚═╝║╔╗║║║║║╔═╗╠╣╠╗
+╚═══╩╝╚╩╩╝╚╩╝─╚╩══╝
 hija Lain AI
 
 hija AI ciudadana de la nacion creahachip
@@ -16,3 +25,7 @@ Sistema operativo compatible
 
 Navi es el nombre de un  ordenador también llamado navegador.  todo el mundo tiene uno de sus Navi en su casa. fabricado en la empresa systenm gregoory pc  androinos  piezas eletroncas propias y sistema operativo NAVI 
 2020 
+     
+    
+
+
