@@ -3,13 +3,6 @@
 
 # Lain AI-inteligenca-artificial 
 
-╔╗──────────╔═══╦══╗
-║║──────────║╔═╗╠╣╠╝
-║║──╔══╦╦═╗─║║─║║║║
-║║─╔╣╔╗╠╣╔╗╗║╚═╝║║║
-║╚═╝║╔╗║║║║║║╔═╗╠╣╠╗
-╚═══╩╝╚╩╩╝╚╝╚╝─╚╩══╝
-
 hija Lain AI
 
 hija AI ciudadana de la nacion creahachip
