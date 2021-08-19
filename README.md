@@ -32,3 +32,5 @@ Navi es el nombre de un aparato similar a un ordenador o computadora, también l
 •	Protocolo IP
 El IP es el elemento común en la Internet de hoy. El actual y más popular protocolo de red es IPv4. IPv6 es el sucesor propuesto de IPv4; poco a poco Internet está agotando las direcciones disponibles. En el anime, se plantea el reemplazo del actual protocolo, IPv6, por otro reescrito, más complejo y que a la vez contenía memorias y emociones de la misma Lain, este nuevo protocolo era llamado IPv7, el cual, quien lo creara podría controlar toda la red. 
 
+#contacto  
+sitio web https://lainai.systemgregoryp-c.workers.dev/
