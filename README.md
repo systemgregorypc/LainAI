@@ -18,6 +18,17 @@ Sistema operativo compatible
 Navi es el nombre de un  ordenador también llamado navegador.  todo el mundo tiene uno de sus Navi en su casa. fabricado en la empresa systenm gregoory pc  androinos  piezas eletroncas propias y sistema operativo NAVI 
 2020 
      
-    
-
+    HECHOS HISTORICO 
+   
+Alusiones
+•	Computadores Apple
+En la serie Lain se muestran los diseños de los computadores Apple, marca que fue usada cuando estaban los escritores, productores, creativo y el equipo gráfico.9 
+•	Proyecto Xanadú
+Vannevar Bush (y Memex), John C. Lilly, Timothy Leary y su modelo de los Ocho Circuitos, Ted Nelson y el Proyecto Xanadú fueron citados como precedentes del Wired. 
+•	Douglas Rushkoff y su libro Cyberia
+Douglas Rushkoff, autor del libro Cyberia, originalmente fue citado para ser uno de los escritores de Lain, y Cyberia en el anime se convirtió en el nombre de una discoteca poblada de hackers y adolescentes punks.4 
+•	Navi
+Navi es el nombre de un aparato similar a un ordenador o computadora, también llamado navegador. Su creador es la empresa Tachibana, y todo el mundo tiene uno de sus Navi en su casa. 
+•	Protocolo IP
+El IP es el elemento común en la Internet de hoy. El actual y más popular protocolo de red es IPv4. IPv6 es el sucesor propuesto de IPv4; poco a poco Internet está agotando las direcciones disponibles. En el anime, se plantea el reemplazo del actual protocolo, IPv6, por otro reescrito, más complejo y que a la vez contenía memorias y emociones de la misma Lain, este nuevo protocolo era llamado IPv7, el cual, quien lo creara podría controlar toda la red. 
 
